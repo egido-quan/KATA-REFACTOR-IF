@@ -1,19 +1,5 @@
 <?php
 
-/*function calculateDiscount($type, $amount) {
-    if ($type == 'regular') {
-        $discount = $amount * 0.05;
-    } elseif ($type == 'premium') {
-        $discount = $amount * 0.10;
-    } elseif ($type == 'vip') {
-        $discount = $amount * 0.15;
-    } else {
-        $discount = 0;
-    }
-
-    return $amount - $discount;
-}*/
-
 $typeArray = ["regular", "premium", "vip"];
 
 function calculateDiscount($type, $amount) {
