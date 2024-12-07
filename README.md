@@ -1,9 +1,9 @@
 # kata-refactor-if
-Kata 49  fullstackPHP 5-12-24
+(Kata 49  fullstackPHP 5-12-24)
 
----
 
-##  Refactor the code in "index.php"
+
+###  Refactor the code in "index.php"
 
 App.php shows my refactor work. I made two changes:
 1. Use *match* instead of *if - elseif*
